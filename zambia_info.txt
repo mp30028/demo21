@@ -1,0 +1,102 @@
+<Country>
+<CountryCode>ZMB</CountryCode>
+<CountryName>ZAMBIA</CountryName>
+<COW-Alpha>ZAM</COW-Alpha>
+<COW-Numeric>551</COW-Numeric>
+<FIPS-10>ZA</FIPS-10>
+<IMF>754</IMF>
+<ISO3166-alpha2>ZM</ISO3166-alpha2>
+<ISO3166-numeric>894</ISO3166-numeric>
+<ISO3166-alpha3>ZMB</ISO3166-alpha3>
+<Nationality>
+	ZAMBIAN_
+</Nationality>
+<Capital>
+	LUSAKA_
+</Capital>
+<Leaders>
+	<Presidents>
+		KENNETH_KAUNDA_				[19641024 - 19911102]  [B:19240101]
+		FREDERICK_CHILUBA_			[19911102 - 20020102]  [B:19430101]
+		{LEVY_MWANAWASA_}{LEVY_PATRICK_MWANAWASA_}				[>20020102]  [B:19480101]
+		RUPIAH_BANDA_				[>20080629]  [B:19370101]
+	</Presidents>
+	<Prime ministers>
+		MALIMBA_MASHEKE_				[19890315 - 19910831]  [B:19400101]
+	</Prime ministers>
+</Leaders>
+<Government>
+	ABEL_CHAMBESHI_	[ZMBGOV <20050431][ZMBGOVBUS 20060801 - 20061031]	# Minister of Science and Technology & Minister of Transport and Communications
+	ANDREW_MULENGA_	[ZMBGOV 20050901 - 20061031][ZMBGOVEDU <20030731][ZMBGOVEDU 20030901 - 20050831]	# Minister of Local Government and Housing & Minister of Education & Minister of Education
+	ANGELA_CIFIRE_	[ZMBGOVHLH 20061101 - 20081131]	# Minister of Health
+	AUGUSTINE_MWAPE_	[ZMBGOVBUS <20041131]	# Minister of Transport and Communication
+	AUSTIN_LIATO_	[ZMBGOVLAB >20081201]	# Minister of Labor and Social Security
+	BATES_NAMUYAMBA_	[ZMBGOV 20050901 - 20061031][ZMBGOVBUS <20030131][ZMBGOVBUS 20041201 - 20050431][ZMBGOVLAB 20050501 - 20050831]	# Minister of Home Affairs & Minister of Commerce and Industry & Minister of Transport and Communication & Minister of Labor and Social Security
+	BEN_KAPITA_	[ZMBGOVAGR 20061101 - 20081131]	# Minister of Agriculture and Cooperatives
+	BEN_TETAMASHIMBA_	[ZMBGOV >20081201]	# Minister of Local Government and Housing
+	BONAVENTURE_MUTALE_	[ZMBGOV <20041131]	# Attorney General
+	BRIAN_CHITUWO_	[ZMBGOV 20061101 - 20081131][ZMBGOV >20100801][ZMBGOVAGR 20081201 - 20100731][ZMBGOVEDU 20050901 - 20061031][ZMBGOVHLH 20031201 - 20050831]	# Minister of Science, Technology, and Vocational Training & Minister of Agriculture and Cooperatives & Minister of Education & Minister of Health
+	{CALEB_FUNDANGA_}{CALEB_M._FUNDANGA_} [ZMBGOVBUS >20041201]	# Governor, Central Bank 
+	{CATHERINE_NAMUGALA_}{CATHERINE_NAMUGULA_} [ZMBGOVBUS >20081201][ZMBGOVDEV 20061101 - 20081131]	# Minister of Environment, Natural Resources, and Tourism & Minister of Community Development and Social Services 
+	CECIL_HOLMES_	[ZMBGOV 20080401 - 20081131]	# Minister of Presidential Affairs
+	DAVISON_MULELA_	[ZMBGOVBUS <20041131]	# Minister of Mines and Mineral Development
+	DIPAK_PATEL_	[ZMBGOVBUS 20030201 - 20061031]	# Minister of Commerce and Industry
+	DORA_SILIYA_	[ZMBGOVBUS 20080401 - 20090731][ZMBGOVEDU >20090801]	# Minister of Commerce, Trade, and Industry & Minister of Education
+	DUNSTAN_WESTON_KAMANA_	[ZMBGOV <20041131]	# Ambassador to the US 
+	EMMANUEL_KASONDE_	[ZMBGOV <20030631]	# Minister of Finance and National Planning
+	ENOCH_KAVINDELE_	[ZMBGOV <20030631]	# Vice President
+	{FELIX_MUTATE_}{FELIX_MUTATI_} [ZMBGOVBUS 20051101 - 20080331][ZMBGOVBUS >20081201]	# Minister of Energy and Water Development & Minister of Commerce, Trade, and Industry 
+	GABRIEL_NAMULAMBE_	[ZMBGOV >20081201][ZMBGOVDEV 20061101 - 20081131]	# Minister of Presidential Affairs & Minister of Sports, Youth, and Child Development
+	{GEOFFREY_LUNGWANGA_}{GEOFFREY_LUNGWANGWA_} [ZMBGOVBUS >20100501][ZMBGOVEDU 20061101 - 20090731]	# Minister of Communications and Transport & Minister of Education 
+	GEORGE_CHULUMANDA_	[ZMBGOVDEV 20050901 - 20061031]	# Minister of Sports, Youth, and Child Development
+	GEORGE_KUNDA_	[ZMBGOV >20030101]	# Minister of Legal Affairs
+	GEORGE_LUNGWANGA_	[ZMBGOVBUS 20090801 - 20100431]	# Minister of Communications and Transport
+	GEORGE_MPOMBO_	[ZMBGOVBUS 20030201 - 20051031][ZMBGOVMIL 20061101 - 20101131]	# Minister of Energy and Water Development Minister of Defense
+	GIBSON_ZIMBA_	[ZMBGOV >20030101]	# Permanent Secretary, Office of the President
+	GLADYS_NYIRONGO_	[ZMBGOV 20050901 - 20081131][ZMBGOVDEV 20041201 - 20050831]	# Minister of Lands Minister of Sports, Youth and Child Development
+	INONGE_MBIKUSITA_LEWANIKA_	[ZMBGOV >20041201]	# Ambassador to the US 
+	JACOB_MWANZA_	[ZMBGOVBUS <20041131]	# Governor, Central Bank
+	{JUDITH_KAPIJIMPANGA_}{JUDITH_KAPINGIPANGA_} [ZMBGOV <20040131][ZMBGOV 20040301 - 20061031]	# Minister of Lands 
+	{KABINGA_MPANDE_}{KABINGA_PANDE_} [ZMBGOV 20050501 - 20050831][ZMBGOV >20070901][ZMBGOVBUS 20050901 - 20070831]	# Minister of Science and Technology & Minister of Foreign Affairs & Minister of Environment, Natural Resources, and Tourism 
+	KALOMBO_MWANSA_	[ZMBGOV <20050831][ZMBGOV 20081201 - 20101131][ZMBGOVBUS 20050901 - 20081131][ZMBGOVMIL >20101201]	# Minister of Foreign Affairs & Minister of Home Affairs & Minister of Mines and Mineral Development & Minister of Defense
+	KAPEMBWA_SIMBAO_	[ZMBGOV 20061101 - 20081131][ZMBGOVHLH >20081201]	# Minister of Works and Supply & Minister of Health
+	KAUNDA_LEMBALEMBA_	[ZMBGOVBUS 20041201 - 20050831]	# Minister of Mines and Mineral Development
+	KENNETH_CHIPUNGU_	[ZMBGOVDEV >20081201]	# Minister of Sports, Youth, and Child Development
+	KENNETH_KONGA_	[ZMBGOVBUS >20061101]	# Minister of Commerce, Trade, and Industry
+	LAZAROUS_KAPAMBWE_	[ZMBGOV >20070901]	# Permanent Representative to the UN, New York
+	LEMBALEMBA_KAUNDA_	[ZMBGOVBUS <20030131]	# Minister of Energy and Water Development
+	LEVISON_MUMBA_	[ZMBGOVDEV <20041131]	# Minister of Sports and Youth Development
+	LEVY_PATRICK_MWANAWASA_	[ZMBGOV 20050201 - 20080831][ZMBGOVMIL 20041201 - 20050431]	# President & Minister of Defense
+	LUCKSON_MAPUSHI_	[ZMBGOV <20030131]	# Minister of Home Affairs
+	LUDWIG_SONDASHI_	[ZMBGOV <20050131]	# Minister of Works and Supply
+	LUPANDO_MWAPE_	[ZMBGOV 20041101 - 20061031]	# Vice President
+	{MALINA_NSINGO_}{MARINA_NSINGO_} [ZMBGOVBUS <20030131][ZMBGOVDEV 20041201 - 20050431]	# Minister of Environment, Natural Resources, and Tourism & Minister of Community Development and Social Services 
+	MAXWELL_MWALE_	[ZMBGOVBUS >20081201]	# Minister of Mines and Mineral Resources
+	MICHAEL_KAINGU_	[ZMBGOVBUS 20070901 - 20081131][ZMBGOVDEV >20081201]	# Minister of Environment, Natural Resources, and Tourism & Minister of Community Development and Social Services
+	MICHAEL_MABENGA_	[ZMBGOV <20030131][ZMBGOVMIL 20030301 - 20041131]	# Minister of Local Government and Housing & Minister of Defense
+	MIKE_MULONGOTI_	[ZMBGOV >20081201][ZMBGOVMED 20070901 - 20081131]	# Minister of Works and Supply & Minister of Information and Broadcasting
+	MKHONDO_LUNGU_	[ZMBGOV >20101201]	# Minister of Home Affairs
+	MUNDIA_SIKATANA_	[ZMBGOV 20061101 - 20070831]	# Minister of Foreign Affairs
+	MUTALE_NALUMANGO_	[ZMBGOVLAB <20030631][ZMBGOVLAB 20050901 - 20061031][ZMBGOVMED 20030701 - 20050831]	# Minister of Labor and Social Services & Minister of Labor and Social Security & Minister of Information and Broadcasting
+	MWELWA_MUSAMBACHIME_	[ZMBGOV <20051231]	# Permanent Representative to the UN, New York
+	NEVERS_MUMBA_	[ZMBGOV 20030701 - 20041031]	# Vice President
+	NEWSTEAD_ZIMBA_	[ZMBGOVMED <20030631]	# Minister of Information and Broadcasting
+	NGANDU_PETER_MAGANDE_	[ZMBGOV 20030801 - 20081131]	# Minister of Finance and National Planning
+	NORMAN_CHIBAMBA_	[ZMBGOVDEV <20041131]	# Minister of Community Development
+	PATRICIA_MULASIKWANDA_	[ZMBGOVDEV 20080401 - 20081131]	# Minister of Gender and Womens Development
+	PATRICK_KAFUMUKACHE_	[ZMBGOVLAB 20041201 - 20050431]	# Minister of Labor and Social Security
+	PATRICK_KALIFUNGWA_	[ZMBGOVBUS 20030201 - 20050831]	# Minister of Environment, Natural Resources, and Tourism
+	PETER_DAKA_	[ZMBGOV 20081201 - 20100731][ZMBGOVAGR >20100801][ZMBGOVBUS 20061101 - 20081131]	# Minister of Science, Technology, and Vocational Training & Minister of Agriculture and Cooperatives & Minister of Transport and Communications
+	RONALD_MUKUMA_	[ZMBGOV >20081201]	# Minister of Lands
+	RONNIE_SHIKAPWASHA_	[ZMBGOV 20030201 - 20081131][ZMBGOVMED >20081201]	# Minister of Home Affairs & Minister of Information and Broadcasting
+	RUPIAH_BANDA_	[ZMBGOV >20061101]	# Vice President
+	SARAH_SAYIFWANDA_	[ZMBGOVAGR 20080401 - 20081131][ZMBGOVDEV 20061101 - 20080331][ZMBGOVDEV >20081201]	# Minister of Agriculture and Cooperatives & Minister of Gender and Womens Development & Minister of Gender and Womens Development
+	SITUMBEKO_MUSOKOTWANE_	[ZMBGOV >20081201]	# Minister of Finance and National Planning
+	STEVEN_MANJATA_	[ZMBGOVDEV 20050501 - 20061031]	# Minister of Community Development and Social Services
+	SUNDAY_NKONDE_	[ZMBGOV >20030101]	# Solicitor General
+	SYLVIA_MASEBO_	[ZMBGOV 20030201 - 20050831][ZMBGOV 20061101 - 20081131][ZMBGOVHLH 20050901 - 20061031]	# Minister of Local Government and Housing Minister of Health
+	TENS_KAPOMA_	[ZMBGOV 20060101 - 20070831]	# Permanent Representative to the UN, New York
+	VERNON_MWAANGA_	[ZMBGOVMED 20050901 - 20070431]	# Minister of Information and Broadcasting
+	WAMUNDILA_MULIOKELA_	[ZMBGOVMIL 20050501 - 20061031]	# Minister of Defense
+</Government>
+</Country>
