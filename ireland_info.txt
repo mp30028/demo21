@@ -1,0 +1,87 @@
+<Country>
+<CountryCode>IRL</CountryCode>
+<CountryName>IRELAND</CountryName>
+<COW-Alpha>IRE</COW-Alpha>
+<COW-Numeric>205</COW-Numeric>
+<FIPS-10>EI</FIPS-10>
+<IMF>178</IMF>
+<ISO3166-alpha2>IE</ISO3166-alpha2>
+<ISO3166-numeric>372</ISO3166-numeric>
+<ISO3166-alpha3>IRL</ISO3166-alpha3>
+<Nationality>
+	EIRE_
+	IRISH_
+	IRISHMAN_
+	IRISHWOMAN_
+	EIRE_
+	REP_OF_IRE_
+</Nationality>
+<Capital>
+	DUBLIN_
+</Capital>
+<MajorCities>
+	CORK_
+	GALWAY_
+	LIMERICK_
+	TARA_
+	WATERFORD_
+</MajorCities>
+<Leaders>
+	<Presidents>
+		PATRICK_J._HILLERY_			[19761203 - 19901202]  [B:19230101]  [D:20080412]
+		MARY_ROBINSON_				[19901203 - 19970912]  [B:19440101]
+		MARY_MCALEESE_				[>19971111]  [B:19500101]
+	</Presidents>
+	<Presidential commission>
+		LIAM_HAMILTON_				[19970912 - 19971110]  [B:19280101]  [D:20001130]
+		SEAMUS_PATTISON_				[19970912 - 19971110]  [B:19360101]
+		LIAM_T._COSGRAVE_			[19970912 - 19971110]  [B:19560101]
+		BRIAN_MULLOOLY_				[19970912 - 19971110]  [B:19350101]
+	</Presidential commission>
+	<Prime ministers>
+		CHARLES_HAUGHEY_				[19870310 - 19920211]  [B:19250101]  [D:20060613]
+		ALBERT_REYNOLDS_				[19920211 - 19941215]  [B:19320101]
+		JOHN_BRUTON_					[19941215 - 19970626]  [B:19470101]
+		BERTIE_AHERN_				[19970626 - 20080507]  [B:19500101]
+		BRIAN_COWEN_					[>20080507]  [B:19600101]
+	</Prime ministers>
+</Leaders>
+<Government>
+	ANNE_ANDERSON_	[IRLGOV >20091001]	# Permanent Representative to the UN, New York
+	BATT_OKEEFFE_	[IRLGOVBUS >20100401][IRLGOVEDU 20080601 - 20100331]	# Minister for Enterprise, Trade, and Innovation & Minister for Education and Science
+	BRENDAN_SMITH_	[IRLGOVAGR >20080601]	# Minister for Agriculture, Fisheries, and Food
+	BRIAN_COWEN_	[IRLGOV >20030101]	# Minister for Foreign Affairs
+	BRIAN_LENIHAN_	[IRLGOV >20080601][IRLGOVJUD 20070701 - 20080531]	# Minister for Finance & Minister for Justice, Equality, and Law Reform
+	CHARLIE_MCCREEVY_	[IRLGOV <20041031]	# Minister for Finance
+	DAVID_COONEY_	[IRLGOV 20051101 - 20080531]	# Permanent Representative to the UN, New York
+	DERMOT_AHERN_	[IRLGOV 20041101 - 20080531][IRLGOVJUD >20080601][IRLGOVMED <20041031]	# Minister for Foreign Affairs & Minister for Justice, Equality, and Law Reform & Minister for Communications, Marine, and Natural Resources
+	DICK_ROCHE_	[IRLGOVENV 20041101 - 20070631]	# Minister for Environment, Heritage, and Local Government
+	{EAMON_O'CUIV_}{EAMON_OCUIV_} [IRLGOV >20100401][IRLGOVAGR <20100331]	# Minister for Social Protection & Minister for Community, Rural, and Gaeltacht Affairs 
+	EAMON_RYAN_	[IRLGOVBUS >20070701]	# Minister for Communications, Energy, and Natural Resources
+	JOE_WALSH_	[IRLGOVAGR <20040831][IRLGOVAGR 20041001 - 20041031]	# Minister for Agriculture and Food
+	JOHN_GORMLEY_	[IRLGOVENV >20070701]	# Minister for Environment, Heritage, and Local Government
+	JOHN_HURLEY_	[IRLGOVBUS 20050501 - 20100431]	# Governor, Central Bank of Ireland
+	JOHN_ODONOGHUE_	[IRLGOVBUS 20041101 - 20070631]	# Minister for Arts, Sport, and Tourism
+	JOHN_PAUL_KAVANAGH_	[IRLGOV 20080601 - 20090931]	# Permanent Representative to the UN, New York
+	MARTIN_CULLEN_	[IRLGOV 20070701 - 20080531][IRLGOVBUS 20041101 - 20070631][IRLGOVBUS 20080601 - 20100331][IRLGOVENV <20041031]	# Minister for Social and Family Affairs & Minister for Transport & Minister for Arts, Sport, and Tourism & Minister for Environment and Local Government
+	MARY_COUGHLAN_	[IRLGOV <20041031][IRLGOV >20080601][IRLGOVAGR 20041101 - 20080531][IRLGOVBUS 20080601 - 20100331][IRLGOVEDU >20100401]	# Minister for Social and Family Affairs & Deputy Prime Minister & Minister for Agriculture and Food & Minister for Enterprise, Trade, and Employment & Minister for Education and Skills
+	MARY_HANAFIN_	[IRLGOV 20080601 - 20100331][IRLGOVBUS >20100401][IRLGOVEDU 20041101 - 20080531]	# Minister for Social and Family Affairs & Minister for Tourism, Culture, and Sport & Minister for Education and Science
+	MARY_HARNEY_	[IRLGOV <20061031][IRLGOVHLH >20061101]	# Deputy Prime Minister & Minister for Health and Children
+	MAUOCONNELL_	[IRLGOVBUS <20050431]	# Governor, Central Bank of Ireland
+	MICHAEL_COLLINS_	[IRLGOV >20080301]	# Ambassador to the US 
+	MICHAEL_MCDOWELL_	[IRLGOVJUD <20070631]	# Minister for Justice, Equality and Law Reform
+	MICHAEL_SMITH_	[IRLGOVMIL <20041031]	# Minister for Defense
+	MICHEAL_MARTIN_	[IRLGOV >20080601][IRLGOVBUS 20041101 - 20080531][IRLGOVHLH <20041031]	# Minister for Foreign Affairs & Minister for Enterprise, Trade, and Employment & Minister for Health and Children
+	NOEL_DEMPSEY_	[IRLGOVBUS >20070701][IRLGOVEDU <20041031][IRLGOVMED 20041101 - 20070631]	# Minister for Transport and Marine & Minister for Education and Science & Minister for Communications, Marine, and Natural Resources
+	NOEL_FAHEY_	[IRLGOV <20080231]	# Ambassador to the US 
+	ODONOGHUE_JOHN_	[IRLGOVBUS <20040531][IRLGOVBUS 20040701 - 20041031]	# Minister for Arts, Sport, and Tourism
+	PATRICK_HONOHAN_	[IRLGOVBUS >20100501]	# Governor, Central Bank of Ireland
+	PAT_CAREY_	[IRLGOV >20100401]	# Minister for Community, Equality, and Gaeltacht Affairs
+	PAUL_GALLAGHER_	[IRLGOV >20070701]	# Attorney General
+	RICHARD_RYAN_	[IRLGOV <20051031]	# Permanent Representative to the UN, New York
+	RORY_BRADY_	[IRLGOV <20070631]	# Attorney General
+	SEAMUS_BRENNAN_	[IRLGOV 20041101 - 20070631][IRLGOVBUS <20041031][IRLGOVBUS 20070701 - 20080531]	# Minister for Social and Family Affairs & Minister for Transport & Minister for Arts, Sport, and Tourism
+	TONY_KILLEEN_	[IRLGOVMIL >20100401]	# Minister for Defense
+	WILLIE_ODEA_	[IRLGOVMIL 20041101 - 20100331]	# Minister for Defense
+</Government>
+</Country>

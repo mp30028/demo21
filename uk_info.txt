@@ -1,0 +1,183 @@
+<Country>
+<CountryCode>GBR</CountryCode>
+<CountryName>UNITED_KINGDOM</CountryName>
+<COW-Alpha>UKG</COW-Alpha>
+<COW-Numeric>200</COW-Numeric>
+<FIPS-10>UK</FIPS-10>
+<IMF>112</IMF>
+<ISO3166-alpha2>GB</ISO3166-alpha2>
+<ISO3166-numeric>826</ISO3166-numeric>
+<ISO3166-alpha3>GBR</ISO3166-alpha3>
+<Nationality>
+	BRITISH_
+	GREAT_BRITAIN_
+	BRITAIN_
+	BRITON_
+	ENGLISHMAN_
+	ENGLISHWOMAN_
+	SCOT_
+	SCOTLAND_
+	SCOTSMAN_
+	SCOTSWOMAN_
+	WALES_
+	WELSH_
+	WELSHMAN_
+	WELSHWOMAN_
+	NORTHERN_IRISH_
+	NORTHERN_IRISHMAN_
+	NORTHERN_IRISHWOMAN_
+	GREAT_BRITIAN_
+	GREAT_BRITTAIN_
+	GRET_BRYTON_
+	BREATAINN_MHOR_
+	PRYDAIN_FAWR_
+	GRAN_BRETANA_
+	BRITANNIA_
+	GT._BRIT_
+	U.K._
+	U.K_
+	THE_UK_
+	YEONGGUK_
+	YONGGUK_
+	UNITED_KINGSOM_
+	YINGGUO_
+	TUKOGBANI_
+	UNITED_KINDGOM_
+	UKGBNI_
+	U.K.G.B.N.I.
+	ROYAUME_UNI_
+	UKOGBANI_
+	GREAT_BRITAIN_AND_ULSTER_
+	GREAT_BRITAIN_&_ULSTER_
+	VERENIGD_KONINKRIJK_
+	UNITED_KINGOM_
+	REINO_UNIDO_
+	REGNO_UNITO_
+	UNTIED_KINGDOM_
+	UKOGBANI_
+	UKANIA_
+</Nationality>
+<Capital>
+	LONDON_
+</Capital>
+<MajorCities>
+	BIRMINGHAM_
+	MANCHESTER_
+	LEEDS_
+	GLASGOW_
+	LIVERPOOL_
+	SHEFFIELD_
+	NEWCASTLE_UPON_TYNE_
+	EDINBURGH_
+	CARDIFF_
+</MajorCities>
+<Leaders>
+	<Kings/QUEENS>
+		ELIZABETH_II[>19520206]  [B:19260101]
+	</Kings/QUEENS>
+	<Prime ministers>
+		HAROLD_WILSON_				[19641016 - 19700619]  [19740304 - 19760405]  [B:19160101]  [D:19950524]
+		EDWARD_HEATH_				[19700619 - 19740304]  [B:19160101]  [D:20050717]
+		JAMES_CALLAGHAN_				[19760405 - 19790504]  [B:19120101]  [D:20050326]
+		MARGARET_THATCHER_			[19790504 - 19901128]  [B:19250101]
+		JOHN_MAJOR_					[19901128 - 19970502]  [B:19430101]
+		TONY_BLAIR_					[19970502 - 20070627]  [B:19530101]
+		GORDON_BROWN_				[>20070627]  [B:19500101]
+	</Prime ministers>
+</Leaders>
+<Government>
+	{ALAN_JOHNSON_}{ALAN_ARTHUR_JOHNSON_} [GBRGOV 20041001 - 20050531][GBRGOV 20090701 - 20100531][GBRGOVBUS 20050601 - 20060531][GBRGOVEDU 20060601 - 20070631][GBRGOVHLH 20070701 - 20090631]	# Secretary of State for Work and Pensions & Secretary of State for the Home Department & Secretary of State for Productivity, Energy, and Industry & Secretary of State for Education and Skills Secretary of State for Health 
+	ALAN_MILBURN_	[GBRGOV 20041001 - 20050531][GBRGOVHLH <20030631]	# Chancellor of the Duchy of Lancaster & Secretary of State for Health
+	{ALISTAIR_DARLING_}{ALISTAIR_MACLEAN_DARLING_} [GBRGOV 20030701 - 20060531][GBRGOV 20070701 - 20100531][GBRGOVBUS <20070631]	# Secretary of State for Scotland & Chancellor of the Exchequer & Secretary of State for Transport 
+	ANDREW_LANSLEY_	[GBRGOVHLH >20100601]	# Secretary of State for Health
+#	{ANDREW_MITCHELL_}{ANDREW_JOHN_BOWER_MITCHELL_} [GBRGOVDEV >20100601]	# Secretary of State for International Development 
+	ANDREW_SMITH_	[GBRGOV <20040931]	# Secretary of State for Work and Pensions
+	ANDY_BURNHAM_	[GBRGOV 20070701 - 20080231][GBRGOVHLH 20090701 - 20100531][GBRGOVMED 20080301 - 20090631]	# Chief Secretary to the Treasury & Secretary of State for Health & Secretary of State for Culture, Media, and Sport
+	BARONESS_AMOS_	[GBRGOV 20031101 - 20070631][GBRGOVDEV 20030601 - 20031031]	# Leader of the House of Lords & Secretary of State for International Development
+	BEN_BRADSHAW_	[GBRGOVMED 20090701 - 20100531]	# Secretary of State for Culture, Media, and Sport
+	CAROLINE_SPELMAN_	[GBRGOVAGR >20100601]	# Secretary of State for the Environment, Food, and Rural Affairs
+	{CATHERINE_ASHTON_}{BARONESS_ASHTON_} [GBRGOV 20070701 - 20081031]	# Leader of the House of Lords 
+	CHARLES_CLARKE_	[GBRGOV 20050101 - 20060531][GBRGOVEDU <20041231]	# Secretary of State for the Home Department & Secretary of State for Education and Skills
+	CHERYL_GILLAN_	[GBRGOV >20100601]	# Secretary of State for Wales
+	CHRISTOPHER_MEYER_	[GBRGOV <20030231]	# Ambassador to the US 
+	CHRIS_HUHNE_	[GBRGOVBUS >20100601]	# Secretary of State for Energy and Climate Change
+	CLARE_SHORT_	[GBRGOVDEV <20030531]	# Secretary of State for International Development
+	{DANNY_ALEXANDER_}{DANIEL_GRIAN_ALEXANDER_} [GBRGOV >20100601]	# Secretary of State for Scotland 
+	DAVID_BLUNKETT_	[GBRGOV <20041231][GBRGOV 20050601 - 20051131]	# Secretary of State for the Home Office & Secretary of State for Work and Pensions
+	{DAVID_CAMERON_}{DAVID_WILLIAM_DONALD_CAMERON_} [GBRGOV >20100601]	# Prime Minister, First Lord of the Treasury, and Minister for the Civil Service 
+	DAVID_LAWS_	[GBRGOV 20100601 - 20100631]	# Chief Secretary to the Treasury
+	DAVID_MANNING_	[GBRGOV 20031101 - 20071131]	# Ambassador to the US 
+	{DAVID_MILIBAND_}{DAVID_WRIGHT_MILIBAND_} [GBRGOV 20050601 - 20060531][GBRGOV 20070701 - 20100531][GBRGOVAGR 20060601 - 20070631]	# Minister of Communities and Local Government & Secretary of State for Foreign and Commonwealth Affairs & Secretary of State for the Environment, Food, and Rural Affairs 
+	{DES_BROWNE_}{DESMOND_BROWNE_} [GBRGOV 20050601 - 20060531][GBRGOVMIL 20060601 - 20081031]	# Chief Secretary to the Treasury & Secretary of State for Defense 
+	{DOUGLAS_ALEXANDER_}{DOUGLAS_GARVEN_ALEXANDER_} [GBRGOV 20060601 - 20070631][GBRGOVDEV 20070701 - 20100531]	# Secretary of State for Scotland & Secretary of State for International Development 
+	EDWARD_GEORGE_	[GBRGOVBUS 20030701 - 20030731]	# Governor, Bank of England
+	EDWARD_MICHAEL_BALLS_	[GBRGOVEDU 20081101 - 20100531]	# Secretary of State for Children, Schools, and Families
+	ED_BALLS_	[GBRGOVEDU 20070701 - 20081031]	# Secretary of State for Children, Schools, and Families
+	{ED_MILIBAND_}{EDWARD_SAMUEL_MILIBAND_} [GBRGOV 20070701 - 20081031][GBRGOVBUS 20081101 - 20100531]	# Chancellor of the Duchy of Lancaster and Cabinet Office Minister & Secretary of State for Energy and Climate Change 
+	ELIZABETH_II_	[GBRGOV >20030101]	# Queen
+	EMYR_JONES_PARRY_	[GBRGOV 20030901 - 20070831]	# Permanent Representative to the UN, New York
+	ERIC_PICKLES_	[GBRGOV >20100601]	# Secretary of State for Communities and Local Government
+	FRANCIS_MAUDE_	[GBRGOV >20100601]	# Minister for the Cabinet Office and Paymaster General
+	{GEOFFREY_HOON_}{GEOFFREY_WILLIAM_HOON_} [GBRGOV 20050601 - 20060531][GBRGOV 20070701 - 20081031][GBRGOVBUS 20081101 - 20090631][GBRGOVMIL <20050531]	# President of Council and Leader of the House of Commons & Chief Whip and Parliamentary Secretary to the Treasury & Secretary of State for Transport & Secretary of State for Defense 
+	GEORGE_OSBORNE_	[GBRGOV >20100601]	# Chancellor of the Exchequer 
+	GEORGE_YOUNG_	[GBRGOV >20100601]	# Leader of the House of Commons and Lord Privy Seal
+	GORDON_BROWN_	[GBRGOV <20081031]	# Chancellor of the Exchequer
+	HARRIET_HARMAN_	[GBRGOVLAB 20070701 - 20100531]	# President of Council, Leader of the House of Commons, and Chairman of the Labor Party
+	{HAZEL_BLEARS_}{HAZEL_ANNE_BLEARS_} [GBRGOV 20070701 - 20090631][GBRGOVLAB 20060601 - 20070631]	# Secretary of State for Communities and Local Government & Minister Without Portfolio and Chairman of the Labor Party 
+	HELEN_LIDDELL_	[GBRGOV <20030631]	# Secretary of State for Scotland
+	HILARY_ARMSTRONG_	[GBRGOV <20070631]	# Chief Whip and Parliamentary Secretary to the Treasury
+	{HILARY_BENN_}{HILARY_JAMES_WEDGEWOOD_BENN_} [GBRGOVAGR 20070701 - 20100531][GBRGOVDEV 20031101 - 20070631]	# Secretary of State for the Environment, Food, and Rural Affairs & Secretary of State for International Development 
+	IAIN_DUNCAN_SMITH_	[GBRGOV >20100601]	# Secretary of State for Work and Pensions
+	IAN_MCCARTNEY_	[GBRGOVLAB 20030401 - 20060531]	# Minister Without Portfolio and Chairman of the Labor Party
+	JACK_STRAW_	[GBRGOV <20070631][GBRGOVJUD 20070701 - 20081031]	# Secretary of State for Foreign and Commonwealth Affairs & Secretary of State for Justice and Lord Chancellor
+	{JACQUI_SMITH_}{JACQUELINE_JILL_SMITH_} [GBRGOV 20060601 - 20090631]	# Chief Whip and Parliamentary Secretary to the Treasury 
+	{JAMES_BROWN_}{JAMES_GORDON_BROWN_} [GBRGOV 20081101 - 20100531]	# Prime Minister, First Lord of the Treasury, and Minister for the Civil Service 
+	JAMES_MURPHY_	[GBRGOV 20081101 - 20100531]	# Secretary of State for Scotland
+	JAMES_PURNELL_	[GBRGOV 20080301 - 20090631][GBRGOVMED 20070701 - 20080231]	# Secretary of State for Work and Pensions & Secretary of State for Culture, Media, and Sport
+	{JANET_ROYALL_}{BARONESS_ROYALL_OF_BLAISDON_} [GBRGOV 20081101 - 20100531]	# Lord President of the Council and Leader of the House of Lords 
+	JEREMY_GREENSTOCK_	[GBRGOV <20030831]	# Permanent Representative to the UN, New York
+	JEREMY_HUNT_	[GBRGOVMED >20100601]	# Secretary of State for Culture, Olympics, Media, and Sport
+	JOHN_DENHAM_	[GBRGOV 20070701 - 20100531]	# Secretary of State for Innovation, Universities, and Skills
+	{JOHN_HUTTON_}{JOHN_MATTHEW_PATRICK_HUTTON_} [GBRGOV 20050601 - 20070631][GBRGOVBUS 20070701 - 20081031][GBRGOVMIL 20081101 - 20090631]	# Chancellor of the Duchy of Lancaster & Secretary of State for Business, Enterprise, and Regulatory Reform & Secretary of State for Defense 
+	JOHN_PRESCOTT_	[GBRGOV <20070631]	# Dep Prime Minister
+	JOHN_REID_	[GBRGOV 20030401 - 20030631][GBRGOV 20060601 - 20070631][GBRGOVHLH 20030701 - 20050531][GBRGOVLAB <20030331][GBRGOVMIL 20050601 - 20060531]	# President of Council and Leader of the House of Commons & Secretary of State for the Home Department & Secretary of State for Health & Minister Without Portfolio and Chairman of the Labor Party & Secretary of State for Defense
+	JOHN_SAWERS_	[GBRGOV 20070901 - 20081031]	# Permanent Representative to the UN, New York
+	JOHN_WHITAKER_STRAW_	[GBRGOV 20081101 - 20100531]	# Lord Chancellor
+	{KEN_CLARKE_}{KENNETH_CLARKE_} [GBRGOVJUD >20100601]	# Secretary of State for Justice and Lord Chancellor 
+	LIAM_BYRNE_	[GBRGOV 20081101 - 20100531]	# Minister for the Cabinet Office and Chancellor of the Duchy of Lancaster
+	LIAM_FOX_	[GBRGOVMIL >20100601]	# Secretary of State for Defense
+	LORD_ADONIS_	[GBRGOVBUS 20090701 - 20100531]	# Secretary of State for Transport
+	LORD_IRVINE_	[GBRGOV <20030631]	# Lord Chancellor
+	MARGARET_BECKETT_	[GBRGOV 20060601 - 20070631][GBRGOVAGR <20060531]	# Secretary of State for Foreign and Commonwealth Affairs & Secretary of State for the Environment, Food, and Rural Affairs
+	MARK_JUSTIN_LYALL_GRANT_	[GBRGOV >20100601]	# Permanent Representative to the UN, New York
+	MERVYN_ALLISTER_	[GBRGOVBUS >20081101]	# Governor, Bank of England
+	MICHAEL_GOVE_	[GBRGOVEDU >20100601]	# Secretary of State for Education
+	MICHAEL_KEVIN_MOORE_	[GBRGOV >20100701]	# Secretary of State for Scotland
+	{NICHOLAS_CLEGG_}{NICHOLAS_WILLIAM_PETER_CLEGG_} [GBRGOV >20100601]	# Deputy Prime Minister 
+	NICK_BROWN_	[GBRGOV <20030631][GBRGOV 20081101 - 20100531]	# Minister for Work & Chief Whip and Parliamentary Secretary to the Treasury
+	NIGEL_ELTON_SHEINWALD_	[GBRGOV >20071201]	# Ambassador to the US 
+	OWEN_WILLIAM_PATERSON_	[GBRGOV >20100601]	# Secretary of State for Northern Ireland
+	PATRICIA_HEWITT_	[GBRGOVBUS <20050531][GBRGOVHLH 20050601 - 20070631]	# Secretary of State for Trade and Industry & Secretary of State for Health
+	PATRICK_MCLOUGHLIN_	[GBRGOV >20100601]	# Chief Whip and Parliamentary Secretary to the Treasury
+	PAUL_BOATENG_	[GBRGOV <20050531]	# Chief Secretary to the Treasury
+	{PAUL_MURPHY_}{PAUL_PETER_MURPHY_} [GBRGOV <20050531][GBRGOV 20080301 - 20090631]	# Secretary of State for Northern Ireland & Secretary of State for Wales 
+	PETER_HAIN_	[GBRGOV <20080231][GBRGOV 20090701 - 20100531]	# Secretary of State for Wales
+	PETER_MANDELSON_	[GBRGOVBUS 20081101 - 20100531]	# Secretary of State for Business, Enterprise, and Regulatory Reform
+	PHILIP_HAMMOND_	[GBRGOVBUS >20100601]	# Secretary of State for Transport
+	{ROBERT_AINSWORTH_}{ROBERT_WILLIAM_AINSWORTH_} [GBRGOVMIL 20090701 - 20100531]	# Secretary of State for Defense 
+	ROBERT_JOHN_SAWERS_	[GBRGOV 20081101 - 20100531]	# Permanent Representative to the UN, New York
+	ROBIN_COOK_	[GBRGOV <20030231]	# President of Council and Leader of the House
+	RUTH_KELLY_	[GBRGOV 20060601 - 20070631][GBRGOVBUS 20070701 - 20081031][GBRGOVEDU 20050101 - 20060531]	# Secretary of State for Community and Local Government & Secretary of State for Transport & Secretary of State for Education and Skills
+	{SHAUN_WOODWARD_}{SHAUN_ANTHONY_WOODWARD_} [GBRGOV 20070701 - 20100531]	# Secretary of State for Northern Ireland 
+	STEPHEN_TIMMS_	[GBRGOV 20060601 - 20070631]	# Chief Secretary to the Treasury
+	STRATHCLYDE_	[GBRGOV >20100601]	# Leader of the House of Lords and Chancellor of the Duchy of Lancaster
+	TESSA_JOWELL_	[GBRGOV 20090701 - 20100531][GBRGOVMED <20070631]	# Minister for the Cabinet Office & for the Olympics and Paymaster General & Secretary of State for Culture, Media, and Sport
+	{THERESA_MAY_}{THERESA_MARY_MAY_} [GBRGOVHRI >20100601]	# Secretary of State for the Home Department & Minister for Women and Equalities 
+	TONY_BLAIR_	[GBRGOV <20070631]	# Prime Minister and First Lord of the Treasury
+	TONY_BRENTON_	[GBRGOV 20030301 - 20031031]	# Charge dAffaires
+	{VINCE_CABLE_}{JOHN_VINCENT_CABLE_} [GBRGOVBUS >20100601]	# Secretary of State for Business, Innovation, and Skills 
+	WILLIAMS_OF_MOSTYN_	[GBRGOV <20030931]	# Leader of the House of Lords
+	WILLIAM_JEFFERSON_HAGUE_	[GBRGOV >20100601]	# Secretary of State for Foreign and Commonwealth Affairs
+	YVETTE_COOPER_	[GBRGOV 20080301 - 20100531]	# Chief Secretary to the Treasury
+</Government>
+</Country>
